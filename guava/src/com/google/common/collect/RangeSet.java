@@ -22,7 +22,7 @@ import java.util.Set;
 import org.checkerframework.checker.nullness.qual.Nullable;
 
 /**
- * A set comprising zero or more {@linkplain Range#isEmpty nonempty}, {@linkplain
+ * A set comprising（包含）zero or more {@linkplain Range#isEmpty nonempty}, {@linkplain
  * Range#isConnected(Range) disconnected} ranges of type {@code C}.
  *
  * <p>Implementations that choose to support the {@link #add(Range)} operation are required to

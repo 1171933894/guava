@@ -38,7 +38,7 @@ import org.checkerframework.checker.nullness.qual.Nullable;
  * }
  * }</pre>
  *
- * <p>to be replaced with the more compact
+ * <p>to be replaced with the more compact（紧凑）
  *
  * <pre>{@code
  * public static double sqrt(double value) {
